@@ -1,0 +1,6 @@
+focus: ring-style in app.jsx search
+flex-grow app.jsx search
+
+grid reciepe card
+
+truncate recipe card title
