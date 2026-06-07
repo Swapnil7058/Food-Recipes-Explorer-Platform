@@ -1,7 +1,9 @@
 import { useState, useEffect, useCallback } from 'react';
 
 // connecting with backends port no. 3000 ;
-const EXPRESS_API_URL = "http://localhost:3000/api"; 
+// const EXPRESS_API_URL = "http://localhost:3000/api"; 
+
+const EXPRESS_API_URL ="https://food-recipe-api.onrender.com/api";
 
 
 export const useRecipeData = () => {
